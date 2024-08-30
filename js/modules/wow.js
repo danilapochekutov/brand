@@ -5,7 +5,6 @@ function animation() {
 		offset: 0,
 		mobile: true,
 		live: true,
-		// callback: function (box) {}
     })
     wow.init();
 }
